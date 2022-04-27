@@ -11,6 +11,19 @@
 		AD20E4F3279E5F2F004F40DA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD20E4F2279E5F2F004F40DA /* ContentView.swift */; };
 		AD20E4F5279E5F31004F40DA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AD20E4F4279E5F31004F40DA /* Assets.xcassets */; };
 		AD20E4F8279E5F31004F40DA /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AD20E4F7279E5F31004F40DA /* Preview Assets.xcassets */; };
+		AD20E500279E5F57004F40DA /* WordView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD20E4FF279E5F57004F40DA /* WordView.swift */; };
+		AD20E503279E5F86004F40DA /* PreferenceKey+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD20E502279E5F86004F40DA /* PreferenceKey+Extensions.swift */; };
+		AD20E506279E5FC2004F40DA /* WordCloudView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD20E505279E5FC2004F40DA /* WordCloudView.swift */; };
+		AD20E508279E6024004F40DA /* WordCloudViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD20E507279E6024004F40DA /* WordCloudViewModel.swift */; };
+		AD57B96E27A25AC600AC6B1C /* WordCloudService.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD57B96D27A25AC600AC6B1C /* WordCloudService.swift */; };
+		AD57B97127A293EC00AC6B1C /* WordModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD57B97027A293EC00AC6B1C /* WordModel.swift */; };
+		AD57B97327A4F9AB00AC6B1C /* TestView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD57B97227A4F9AB00AC6B1C /* TestView.swift */; };
+		AD57B97527B0D9D600AC6B1C /* RotateView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD57B97427B0D9D600AC6B1C /* RotateView.swift */; };
+		AD57B97727B1214A00AC6B1C /* Ajimide.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD57B97627B1214A00AC6B1C /* Ajimide.swift */; };
+		ADD20EEC28190E7F005C37C4 /* screen.png in Resources */ = {isa = PBXBuildFile; fileRef = ADD20EEA28190E7F005C37C4 /* screen.png */; };
+		ADD20EED28190E7F005C37C4 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = ADD20EEB28190E7F005C37C4 /* README.md */; };
+		ADD21EB127B14BC6008B50C0 /* Offset+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD21EB027B14BC6008B50C0 /* Offset+Extensions.swift */; };
+		ADD21EB327B23791008B50C0 /* InitOder.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD21EB227B23791008B50C0 /* InitOder.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +32,19 @@
 		AD20E4F2279E5F2F004F40DA /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		AD20E4F4279E5F31004F40DA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AD20E4F7279E5F31004F40DA /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		AD20E4FF279E5F57004F40DA /* WordView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordView.swift; sourceTree = "<group>"; };
+		AD20E502279E5F86004F40DA /* PreferenceKey+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "PreferenceKey+Extensions.swift"; sourceTree = "<group>"; };
+		AD20E505279E5FC2004F40DA /* WordCloudView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordCloudView.swift; sourceTree = "<group>"; };
+		AD20E507279E6024004F40DA /* WordCloudViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordCloudViewModel.swift; sourceTree = "<group>"; };
+		AD57B96D27A25AC600AC6B1C /* WordCloudService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordCloudService.swift; sourceTree = "<group>"; };
+		AD57B97027A293EC00AC6B1C /* WordModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordModel.swift; sourceTree = "<group>"; };
+		AD57B97227A4F9AB00AC6B1C /* TestView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestView.swift; sourceTree = "<group>"; };
+		AD57B97427B0D9D600AC6B1C /* RotateView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotateView.swift; sourceTree = "<group>"; };
+		AD57B97627B1214A00AC6B1C /* Ajimide.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ajimide.swift; sourceTree = "<group>"; };
+		ADD20EEA28190E7F005C37C4 /* screen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screen.png; sourceTree = SOURCE_ROOT; };
+		ADD20EEB28190E7F005C37C4 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
+		ADD21EB027B14BC6008B50C0 /* Offset+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Offset+Extensions.swift"; sourceTree = "<group>"; };
+		ADD21EB227B23791008B50C0 /* InitOder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitOder.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +77,13 @@
 		AD20E4EF279E5F2F004F40DA /* SwiftUIWordsCloud */ = {
 			isa = PBXGroup;
 			children = (
+				ADD20EEB28190E7F005C37C4 /* README.md */,
+				ADD20EEA28190E7F005C37C4 /* screen.png */,
+				AD57B96F27A293E200AC6B1C /* Data Models */,
+				AD57B96C27A25AB900AC6B1C /* Services */,
+				AD20E504279E5FAA004F40DA /* View Models */,
+				AD20E501279E5F6F004F40DA /* Utils */,
+				AD20E4FE279E5F41004F40DA /* Views */,
 				AD20E4F0279E5F2F004F40DA /* SwiftUIWordsCloudApp.swift */,
 				AD20E4F2279E5F2F004F40DA /* ContentView.swift */,
 				AD20E4F4279E5F31004F40DA /* Assets.xcassets */,
@@ -65,6 +98,52 @@
 				AD20E4F7279E5F31004F40DA /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		AD20E4FE279E5F41004F40DA /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				AD20E4FF279E5F57004F40DA /* WordView.swift */,
+				AD20E505279E5FC2004F40DA /* WordCloudView.swift */,
+				AD57B97227A4F9AB00AC6B1C /* TestView.swift */,
+				AD57B97627B1214A00AC6B1C /* Ajimide.swift */,
+				ADD21EB227B23791008B50C0 /* InitOder.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		AD20E501279E5F6F004F40DA /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				AD20E502279E5F86004F40DA /* PreferenceKey+Extensions.swift */,
+				AD57B97427B0D9D600AC6B1C /* RotateView.swift */,
+				ADD21EB027B14BC6008B50C0 /* Offset+Extensions.swift */,
+			);
+			path = Utils;
+			sourceTree = "<group>";
+		};
+		AD20E504279E5FAA004F40DA /* View Models */ = {
+			isa = PBXGroup;
+			children = (
+				AD20E507279E6024004F40DA /* WordCloudViewModel.swift */,
+			);
+			path = "View Models";
+			sourceTree = "<group>";
+		};
+		AD57B96C27A25AB900AC6B1C /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				AD57B96D27A25AC600AC6B1C /* WordCloudService.swift */,
+			);
+			path = Services;
+			sourceTree = "<group>";
+		};
+		AD57B96F27A293E200AC6B1C /* Data Models */ = {
+			isa = PBXGroup;
+			children = (
+				AD57B97027A293EC00AC6B1C /* WordModel.swift */,
+			);
+			path = "Data Models";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -126,6 +205,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				AD20E4F8279E5F31004F40DA /* Preview Assets.xcassets in Resources */,
+				ADD20EEC28190E7F005C37C4 /* screen.png in Resources */,
+				ADD20EED28190E7F005C37C4 /* README.md in Resources */,
 				AD20E4F5279E5F31004F40DA /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -137,8 +218,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				ADD21EB127B14BC6008B50C0 /* Offset+Extensions.swift in Sources */,
+				AD20E503279E5F86004F40DA /* PreferenceKey+Extensions.swift in Sources */,
 				AD20E4F3279E5F2F004F40DA /* ContentView.swift in Sources */,
+				AD57B97727B1214A00AC6B1C /* Ajimide.swift in Sources */,
+				AD20E506279E5FC2004F40DA /* WordCloudView.swift in Sources */,
+				ADD21EB327B23791008B50C0 /* InitOder.swift in Sources */,
+				AD57B96E27A25AC600AC6B1C /* WordCloudService.swift in Sources */,
 				AD20E4F1279E5F2F004F40DA /* SwiftUIWordsCloudApp.swift in Sources */,
+				AD20E508279E6024004F40DA /* WordCloudViewModel.swift in Sources */,
+				AD57B97327A4F9AB00AC6B1C /* TestView.swift in Sources */,
+				AD20E500279E5F57004F40DA /* WordView.swift in Sources */,
+				AD57B97127A293EC00AC6B1C /* WordModel.swift in Sources */,
+				AD57B97527B0D9D600AC6B1C /* RotateView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
